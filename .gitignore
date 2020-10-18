@@ -1,3 +1,4 @@
 .idea
-data/*.csv
-data/*.txt
+.DS_Store
+data/**/*.csv
+data/**/*.txt
